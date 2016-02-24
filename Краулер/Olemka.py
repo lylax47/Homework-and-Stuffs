@@ -15,12 +15,12 @@ def csv_write(path, author, header, created, topic, source, publ_year, doc_count
 def find_author(tree):
     au_name_list = tree.xpath('.//em/strong/text()')
     for text in au_name_list:
-        m = re.match('[А-Я]\.\s?([А-ЯЁ]|[а-яё])+', text) #
+        m = re.match('[А-Я]\.\s?([А-ЯЁ]|[а-яё])+', text) #selects author name from list
         if m:
             name = m.group()
             break
     if au_name_list == [] or m == None :
-        name = 'Noname'
+        name = 'Noname'         #asigns noname to name if no athor present
     return name
 
 
@@ -54,10 +54,10 @@ for href in hrefs:
         year = date[0]
         month = date[1]
         day = date[2]
-        clean_date = "{0}.{1}.{2}".format(day, month, year)
+        clean_date = "{0}.{1}.{2}".format(day, month, year)  #fromats date for writing in doc
         html_dir = os.path.join(os.getcwd(),"html\\{0}\\{1}".format(year, month))
-        no_marks_dir = os.path.join(os.getcwd(),"no_marks\\{0}\\{1}".format(year, month))
-        if not os.path.exists(html_dir):
+        no_marks_dir = os.path.join(os.getcwd(),"no_marks\\{0}\\{1}".format(year, month))  
+        if not os.path.exists(html_dir):  #creates nessesary directories if not already present
             os.makedirs(html_dir)
         if not os.path.exists(no_marks_dir):
             os.makedirs(no_marks_dir)
@@ -70,5 +70,5 @@ for href in hrefs:
         href_skip.append(href) #appends list with already completed link
     hrefs2 = tree2.xpath('//a[starts-with(@href, "http://gazetaolekma.ru") or starts-with(@href,"https://gazetaolekma.ru") or starts-with(@href,"ftp://gazetaolekma.ru")]/@href')
     for href2 in hrefs2:
-        if href2 not in hrefs:
+        if href2 not in hrefs:  #adds new links to search
             hrefs.append(href2)
