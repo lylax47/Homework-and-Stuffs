@@ -53,6 +53,7 @@ def conv_text(conv_dic):
 
 	arguements: Conv_dic - Conversion dictionary from conv_dic function. Contains dictionary of amharic character keys with their coinciding phonetic alphabet values.
 	'''
+	
 	temp_list = []
 	fin_list = []
 	with open('amharic.txt', 'r', encoding = 'utf8') as amdoc, \

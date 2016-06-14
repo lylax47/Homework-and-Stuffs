@@ -1,0 +1,6 @@
+src@http://zyxel.ru/kb/1027
+type@link
+likes@0
+
+
+	Различия между режимами RFC1483 и ENET ENCAP | ZyXEL Russia
