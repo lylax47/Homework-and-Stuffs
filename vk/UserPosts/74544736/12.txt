@@ -1,4 +1,4 @@
-src@https://vk.com/doc74544736_437276001?hash=12b4a9aa55f68208f1&dl=1466002416b97570011afcec2b02&api=1
+src@https://vk.com/doc74544736_437276001?hash=12b4a9aa55f68208f1&dl=1466344182a6ae4fd9242549153f&api=1
 type@doc
 likes@7
 

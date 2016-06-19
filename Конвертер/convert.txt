@@ -1,0 +1,17 @@
+#sentno	#wordno	#graph	#word	#nvars	#nlems	#nvar	#lem	#trans	#lex	#gram	#sent_pos
+1	1	cap	Уның	2	2	1	ун	десять	NUM	NUposs.2sg	bos
+1	1	cap	Уның	2	2	2	ун	он	SPRO	SPRposs.2sg	bos
+1	2		һүҙе	1	2	1	һүҙ	слово	S/	poss.3sg/pl	
+1	3		тере	1	2	1	тере	живой	ADJ	ADnom,sg	eos
+2	1	cap	Ул	2	2	1	ул	он	SPRO	SPRnom,sg	bos
+2	1	cap	Ул	2	2	2	ул	сын	S	nom,sg	bos
+2	2		вәғәҙә	1	2	1	вәғәҙә	обещание	S	nom,sg	
+2	3		һүҙҙәр	1	2	1	һүҙ	слово	S	pl	
+2	4		йыш	2	2	1	йыш	частый	ADJ	ADnom,sg	
+2	4		йыш	2	2	2	йыш	строгать	V	imp	
+2	5		бирмәне	1	2	1	бир	дать	V	neg,pst.def	eos
+3	1		Һүҙһеҙ	1	2	1	һүҙ	слово	S	abe	bos
+3	2		генә	1	2	1	генә		PART	PART	
+3	3		торҙо	1	2	1	тор	стоять	V	pst.def	
+3	4		һүҙендә	2	2	1	һүҙ	слово	S	poss.3sg,loc	eos
+3	4		һүҙендә	2	2	2	һүҙ	слово	S	loc	eos

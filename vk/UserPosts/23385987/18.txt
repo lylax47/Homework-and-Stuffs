@@ -1,0 +1,6 @@
+src@http://death-error.ru/index.php
+type@link
+likes@1
+
+
+	Наш сайт

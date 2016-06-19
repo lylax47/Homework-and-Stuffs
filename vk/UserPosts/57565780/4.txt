@@ -1,6 +1,6 @@
-src@http://cs626231.vk.me/v626231780/10637/IiL8f3HLddY.jpg
-type@photo
-likes@11
+src@http://cs611528.vk.me/u78322690/audios/d6daccdac305.mp3?extra=v8qjGPg_Mqn-T6M9UzzKxldIWeBH_wsPwtQetf8uGi2HtBvlAawPd-sWwovNyvhnnUNrUJ5Hx_NdUaE4yBTUcKKlmxpJig-rG0PaPTv3UUU0GtSes3rm0L4tldso9SvKIPMqLS-QP9rE8_QF
+type@audio
+likes@1
 
 
 	

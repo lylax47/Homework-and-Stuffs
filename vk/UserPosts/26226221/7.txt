@@ -1,0 +1,6 @@
+src@https://uchi.ru/students/ny_cards/1
+type@link
+likes@1
+
+
+	Новогодняя задача решена

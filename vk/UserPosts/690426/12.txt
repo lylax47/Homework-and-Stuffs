@@ -1,0 +1,6 @@
+src@http://ninite.com/
+type@link
+likes@1
+
+
+	Ninite - Install or Update Multiple Apps at Once

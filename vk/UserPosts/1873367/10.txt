@@ -1,6 +1,6 @@
 src@http://cs622018.vk.me/v622018367/ea19/FbApEyAUc4I.jpg
 type@photo
-likes@114
+likes@113
 
 
 	

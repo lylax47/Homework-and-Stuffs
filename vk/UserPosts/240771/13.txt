@@ -1,6 +1,6 @@
-src@https://vk.com/dionidez.club
-type@link
-likes@4
+src@http://cs604525.vk.me/v604525202/f534/KwvNCg5lYYY.jpg
+type@photo
+likes@1
 
 
 	

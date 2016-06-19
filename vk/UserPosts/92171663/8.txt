@@ -1,0 +1,6 @@
+src@https://vk-contra.pentagames.net/?api_url=https://api.vk.com/api.php&amp;api_id=3636515&amp;api_settings=8455&amp;viewer_id=250147919&amp;viewer_type=2&amp;sid=f30e08c407b07c1a498ae60240bee04d9e02fc21b0c3069d43c2fb65958fe056cd6417d83d6de713c4e18&amp;secret=e6f5716e6c&amp;access_token=f9018ab19177b53eab0b4931307f8fb6dc5ac2ff883fac6d19fc9a59b6a8d6e92e767b936ecfc2fcab56a&amp;user_id=250147919&amp;group_id=0&amp;is_app_user=1&amp;auth_key=612e95f4fe98d1c5a34767f2ed02a9fb&amp;language=0&amp;parent_language=0&amp;ad_info=ElsdCQNZQVRgAg1aHEVUXiN2AFNzBx5pU1BXIgZUJlIEAWcgAUoLQg==&amp;is_secure=1&amp;ads_app_id=3636515_0ee57689427a15a06b&amp;api_result=%7B
+type@link
+likes@0
+
+
+	

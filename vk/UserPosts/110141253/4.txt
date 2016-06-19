@@ -1,6 +1,6 @@
-src@http://cs543102.vk.me/v543102223/b098/qLr7vg6cpBs.jpg
-type@photo
-likes@8
+src@N/A
+type@N/A
+likes@9
 
 
 	А вдруг прокатит

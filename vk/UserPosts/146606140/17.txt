@@ -1,0 +1,6 @@
+src@http://video1.vkadre.ru/assets/thumbnails/ebc0e5384086349.320.vk.jpg
+type@video
+likes@1
+
+
+	

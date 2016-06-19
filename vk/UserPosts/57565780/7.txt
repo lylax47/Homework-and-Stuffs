@@ -1,6 +1,6 @@
-src@http://cs7001.vk.me/v7001643/22052/Bekm1_sUwWk.jpg
-type@photo
-likes@5
+src@http://cs1-50v4.vk-cdn.net/p5/bbb37892798e0a.mp3?extra=XaiT1_4Mn68l_qcFDc0oTD0l1u5TqyGl2c7bN6h6LG7wBVskvZ-csvbAibhFYqDvkPpf2NLKyJL32D_fnBmQ2DJfwQct_6wQqzS8SKoGyHj0WjrodZUb1Tbfffdg8sCn9aMIwBpiBpamfNay
+type@audio
+likes@1
 
 
 	

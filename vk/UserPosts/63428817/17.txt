@@ -1,0 +1,6 @@
+src@http://cs543107.vk.me/v543107818/66431/Hw3Mz7nHilw.jpg
+type@photo
+likes@0
+
+
+	1 . Frankly speaking - Откровенно говоря<br>2 . To cut it short - Короче говоря<br>3 . So to speak - Так сказать<br>4 . Meanwhile - Тем временем, пока<br>5 . By the way - Кстати, между прочим<br>6 . It goes without saying - Само собой разумеется<br>7 . As far as I know - Насколько мне известно<br>8 . Indeed - Действительно<br>9 . In other words - Другими словами<br>10 . However - Однако<br>11 . So well - Итак<br>12 . Besides - Кроме того<br>13 . Also - Также<br>14 . Сertainly - Конечно<br>15 . Anyway - В любом случае<br>16 . Always at all - Вообще<br>17 . Therefore - По этой причине<br>18 . Though - Хотя<br>19 . Although - Хотя<br>20 . Meantime - Тем временем<br>21 . Nevertheless - Однако, тем не менее, все-таки<br>22 . Perhaps - Возможно<br>23 . Probably - Возможно<br>24 . To put it mildly - Мягко говоря<br>25 . At all - Вообще<br>26 . In any case - В любом случае<br>27 . To tell the truth - Честно говоря<br>28 . So - Итак<br>29 . Moreover - Кроме того<br>30 . Well - Хорошо<br>31 . Strictly speaking - Строго говоря<br>32 . To sum it up - Подытоживая<br>33 . Of course - Конечно<br>34 . Certainly - Безусловно<br>35 . Probably - Возможно<br>36 . To begin with - Начнем с

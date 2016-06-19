@@ -16,7 +16,7 @@ def get_city(api):
     return(city_id)
 
 def get_users(api, city_id):
-    user_list = api.users.search(city = city_id, count = '100')
+    user_list = api.users.search(city = city_id, count = '1000')
     return user_list
 
 def get_info(api, id_list):
@@ -177,6 +177,7 @@ def write_posts(data):
                     doc.write(formated)
                 i += 1
 
+rem()
 id_list = []
 session = vk.AuthSession(app_id = '5439491', user_login = 'jlyell@wisc.edu', user_password = 'Pickle9247.')
 api = vk.API(session)

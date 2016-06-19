@@ -1,6 +1,6 @@
-src@http://cs635103.vk.me/v635103644/46c5/dLzBLhrJZJM.jpg
-type@photo
-likes@1
+src@N/A
+type@N/A
+likes@0
 
 
-	
+	"В UFC мне интересен бой с Веласкесом" © Федор

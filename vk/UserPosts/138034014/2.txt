@@ -1,6 +1,6 @@
 src@http://cs543104.vk.me/v543104243/23558/frxC3RlbrS4.jpg
 type@photo
-likes@3
+likes@4
 
 
 	

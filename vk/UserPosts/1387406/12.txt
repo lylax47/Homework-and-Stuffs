@@ -1,0 +1,6 @@
+src@http://journal.tinkoff.ru/cheap-flights/
+type@link
+likes@0
+
+
+	http://journal.tinkoff.ru/cheap-flights/

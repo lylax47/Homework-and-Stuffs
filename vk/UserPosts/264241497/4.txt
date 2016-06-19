@@ -1,0 +1,6 @@
+src@http://cs7011.vk.me/v7011265/1fc61/xv6-o9y8TFI.jpg
+type@photo
+likes@6
+
+
+	

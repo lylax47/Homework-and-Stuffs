@@ -1,0 +1,6 @@
+src@http://ok.ru/video/10464331259
+type@link
+likes@0
+
+
+	Класс)))
