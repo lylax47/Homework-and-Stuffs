@@ -177,17 +177,17 @@ def write_posts(data):
                     doc.write(formated)
                 i += 1
 
-# id_list = []
-# session = vk.AuthSession(app_id = '5439491', user_login = 'jlyell@wisc.edu', user_password = 'Pickle9247.')
-# api = vk.API(session)
-# city_id = get_city(api)
-# user_list = get_users(api, city_id)
-# for x in user_list:
-#     if type(x) is int:
-#         pass
-#     else:
-#         id_list.append(x['uid'])
-# info_list = get_info(api, id_list)
-# with open('test.json', 'w') as li:
-#     li.write(json.dumps(info_list))
+id_list = []
+session = vk.AuthSession(app_id = '5439491', user_login = 'jlyell@wisc.edu', user_password = 'Pickle9247.')
+api = vk.API(session)
+city_id = get_city(api)
+user_list = get_users(api, city_id)
+for x in user_list:
+    if type(x) is int:
+        pass
+    else:
+        id_list.append(x['uid'])
+info_list = get_info(api, id_list)
+with open('test.json', 'w') as li:
+    li.write(json.dumps(info_list))
 org_data()

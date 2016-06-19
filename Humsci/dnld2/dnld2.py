@@ -115,8 +115,7 @@ def csv_write (link, text, event, loc, st, date, cat, price, first):
     first_row = ['link', 'text', 'event', 'location', 'street', 'date', 'category', 'price']
     info_row = [link, text, event, loc, st, date, cat, price]
     with open('event_info.csv', 'a', encoding = 'utf-8') as csv_f:
-        csv_file = csv.writer(csv_f, delimiter = '\t', quotechar = '|',
-            quoting = csv.QUOTE_MINIMAL)
+        csv_file = csv.writer(csv_f, delimiter = '\t')
         if first == False:
             csv_file.writerow(first_row)
         csv_file.writerow(info_row)

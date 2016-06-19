@@ -1,6 +1,6 @@
-src@http://cs626526.vk.me/v626526143/6d/p-L_FEAlA-0.jpg
-type@photo
-likes@1
+src@https://vk.com/climbing_wall_kogalym
+type@link
+likes@8
 
 
 	

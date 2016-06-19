@@ -36,12 +36,12 @@ def rep(templ, samp):
 	while si1 <= len(templ) - 1:
 		if templ[si1] == samp[si2]:
 			new_samp.append(templ[si1])
-		elif len(templ[si1]) > len(samp[si2]) + 15:
+		elif len(templ[si1]) > len(samp[si2]) + 10:
 			tup = ordering(templ, samp, si1, si2)
 			si1 = tup[0]
 			si2 = tup[1]
 			new_samp.append(tup[2])
-		elif len(samp[si2]) > len(templ[si1]) + 15:
+		elif len(samp[si2]) > len(templ[si1]) + 10:
 			tup = ordering(samp, templ, si2, si1)
 			si1 = tup[1]
 			si2 = tup[0]
@@ -84,9 +84,9 @@ def ordering(big, little, big_i, lit_i):
 			beg = sent[0:1]
 			end = sent[len(sent) -4: len(sent) - 2]
 			if ')' in end:
-				exp = re.search('(({0}(.*){1})'.format(beg, end), orig_sen)
+				exp = re.search('(({0}(.*))'.format(beg), orig_sen)
 			else:
-				exp = re.search('({0}(.*){1})'.format(beg, end), orig_sen[0:len(orig_sen)-1])
+				exp = re.search('({0}(.*))'.format(beg), orig_sen[0:len(orig_sen)-1])
 			try:
 				cut = exp.group(1)
 			except AttributeError:
