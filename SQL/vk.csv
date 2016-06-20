@@ -1,0 +1,488 @@
+User ID;First Name;Last Name;Sex;City;Birthday;Home Town;Relation;University;Graduation;Religion;Languages
+74544736;Olya;Zubareva;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+2701996;Yulia;Bessonova;1;Когалым;8.12;N/A;N/A;N/A;N/A;N/A;N/A
+1873367;Dima;Derbenyov;2;Когалым;6.6.1993;Когалым;single;|СибАДИ
+|;2015;Атеист;['Русский', 'English']
+42718140;Serezha;Chekulaev;2;Когалым;24.8;N/A;N/A;N/A;N/A;N/A;N/A
+95564559;Vadim;Gindullin;2;Когалым;18.3;N/A;N/A;N/A;N/A;N/A;N/A
+9751949;Viktor;Solovyev;2;Когалым;23.5.1986;Когалым, Оренбург;married;|ОГУ
+|;2010;Православие;N/A
+17120048;Oleg;Ivannikov;2;Когалым;19.7;N/A;N/A;N/A;N/A;N/A;N/A
+12571736;Ksenia;Alexandrovna;1;Когалым;11.11;N/A;N/A;N/A;N/A;N/A;N/A
+240771;Diana;Demekha;1;Когалым;15.3;N/A;N/A;N/A;N/A;N/A;N/A
+85856238;Rima;Kazyeva;1;Когалым;29.12;N/A;N/A;N/A;N/A;N/A;N/A
+11329271;Yana;Zelenyuk;1;Когалым;17.4.1991;Когалым;married;ТюмГУ (КФ);2014;Ислам;['Русский', 'English']
+63784219;Ilya;Kachur;2;Когалым;20.11.1998;Когалым;actively searching;;0;Христианин;['Русский']
+17954147;Alina;Gafurova;1;Когалым;3.2;N/A;N/A;N/A;N/A;N/A;N/A
+11026890;Albinka;Belaya;1;Когалым;1.8.1987;N/A;N/A;N/A;N/A;N/A;N/A
+107263412;Lidia;Chegorskaya;1;Когалым;18.12;;in love;;0;Православие;['Русский', 'English']
+67664625;Vitalya;Ivenko;2;Когалым;28.6.1986;Когалым;in love;;0;N/A;N/A
+64045521;Ismail;Minibaev;2;Когалым;30.7;Когалым;in love;;0;Ислам;['Русский', 'English']
+56221131;Denis;Lisovenko;2;Когалым;10.10.1995;N/A;N/A;N/A;N/A;N/A;N/A
+21816837;Karolina;Kulakova;1;Когалым;10.11;N/A;N/A;N/A;N/A;N/A;N/A
+146576714;Dima;Zamotokhin;2;Когалым;16.6.1994;N/A;N/A;N/A;N/A;N/A;N/A
+110141253;Diyora;Rustamova;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+89926034;Marina;Gorozhankina;1;Когалым;7.1;N/A;N/A;N/A;N/A;N/A;N/A
+86228624;Bogdan;Vlasenko;2;Когалым;26.4.1995;N/A;N/A;N/A;N/A;N/A;N/A
+15762866;Dmitry;Kokhnyuk;2;Когалым;8.3.1984;N/A;N/A;N/A;N/A;N/A;N/A
+13427881;Olesya;Vrynchan;1;Когалым;21.6.1990;N/A;N/A;N/A;N/A;N/A;N/A
+9237290;Darya;Alieva;1;Когалым;5.7.1985;Когалым;in love;;0;Православная;N/A
+6261462;Yulia;Ostryakina-Ivenko;1;Когалым;11.6;Когалым;in love;;0;N/A;['Русский', 'English']
+81086592;Artur;Sagitov;2;Когалым;22.8;N/A;N/A;N/A;N/A;N/A;N/A
+73822212;Tetyana;Pitlyuk;1;Когалым;1.1;N/A;N/A;N/A;N/A;N/A;N/A
+64943635;Krestina;Brauzman;1;Когалым;8.7.1987;Волгоград;married;МПГУ (бывш. МГПИ им. Ленина);2013;Православие;N/A
+57565780;Alyona;Padukova;1;Когалым;31.8;N/A;N/A;N/A;N/A;N/A;N/A
+20736395;Ksenia;Polozhi;1;Когалым;30.7;N/A;N/A;N/A;N/A;N/A;N/A
+20475992;Anastasia;Lukyanova;1;Когалым;4.5.1991;;married;;0;Верю в себя,в бога и в Большую и светлую любовь!!♀ + ♂ = ♥;N/A
+15221443;Darya;Suprun;1;Когалым;29.3;N/A;N/A;N/A;N/A;N/A;N/A
+14469494;Albert;Mullagaleev;2;Когалым;17.10;N/A;N/A;N/A;N/A;N/A;N/A
+121036446;Anastasia;Odintsova;1;Когалым;22.1.1994;N/A;N/A;N/A;N/A;N/A;N/A
+116407963;Bogdan;Zhizhchenko;2;Когалым;14.6.1990;N/A;N/A;N/A;N/A;N/A;N/A
+100274152;Lenochka;Kirillova;1;Когалым;8.8;N/A;N/A;N/A;N/A;N/A;N/A
+85131126;Konstantin;Demyanchuk;2;Когалым;26.10;N/A;N/A;N/A;N/A;N/A;N/A
+34226845;Anastasya;Shershen;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+33600640;Ksenia;Nikitina;1;Когалым;13.9;N/A;N/A;N/A;N/A;N/A;N/A
+24249297;Anastasia;Yurkovets;1;Когалым;13.10.1992;N/A;N/A;N/A;N/A;N/A;N/A
+19386915;Elvira;Parfenova;1;Когалым;7.6;N/A;N/A;N/A;N/A;N/A;N/A
+103623787;Dima;Kuklin;2;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+87033586;Maria;Kazakova;1;Когалым;11.7.1983;САНКТ-ПЕТЕРБУРГ;married;;0;Православие;N/A
+83824171;Yana;Khlestunova;1;Когалым;2.12;N/A;N/A;N/A;N/A;N/A;N/A
+82808167;Alexey;Andreytsov;2;Когалым;23.12;N/A;N/A;N/A;N/A;N/A;N/A
+51040126;Alina;Baeva;1;Когалым;16.8.1993;N/A;N/A;N/A;N/A;N/A;N/A
+50661506;Elvira;Skobeleva;1;Когалым;1.2.1992;N/A;N/A;N/A;N/A;N/A;N/A
+24920226;Maga;Khiramagomedov;2;Когалым;16.5;N/A;N/A;N/A;N/A;N/A;N/A
+18445441;Darya;Dmitrieva;1;Когалым;5.4.1989;N/A;N/A;N/A;N/A;N/A;N/A
+10227626;Alia;Samatova;1;Когалым;12.3;N/A;N/A;N/A;N/A;N/A;N/A
+8408914;Rusalina;Kruglova;1;Когалым;15.4.1991;N/A;N/A;N/A;N/A;N/A;N/A
+3319698;Yana;Mukhyanova;1;Когалым;11.9.1987;Уфа;in love;|БГМУ
+|;2010;Бог все-таки есть...а кто тогда мне помогает?.....;N/A
+2951697;Dilyara;Zaripova;1;Когалым;21.4.1993;N/A;N/A;N/A;N/A;N/A;N/A
+122326016;Alexandra;Dorofeeva;1;Когалым;19.12;N/A;N/A;N/A;N/A;N/A;N/A
+117539722;Dasha;Osipova;1;Когалым;13.9.1990;N/A;N/A;N/A;N/A;N/A;N/A
+117136362;Lilia;Sokolova;1;Когалым;26.4;N/A;N/A;N/A;N/A;N/A;N/A
+103161311;Anar;Anarov;2;Когалым;2.9;N/A;N/A;N/A;N/A;N/A;N/A
+64355900;Inna;Tishkina;1;Когалым;7.12.1988;N/A;N/A;N/A;N/A;N/A;N/A
+63428817;Marina;Shaymardanova;1;Когалым;26.1.1986;N/A;N/A;N/A;N/A;N/A;N/A
+57019420;Lidia;Fomina;1;Когалым;9.7;N/A;N/A;N/A;N/A;N/A;N/A
+54011176;Tolik;Fesik;2;Когалым;21.3;N/A;N/A;N/A;N/A;N/A;N/A
+23681278;Elena;Zaroslova;1;Когалым;10.8;N/A;N/A;N/A;N/A;N/A;N/A
+20372777;Lilya;Galeeva;1;Когалым;27.1.1989;N/A;N/A;N/A;N/A;N/A;N/A
+16671954;Viktoria;Sitdikova;1;Когалым;8.7.1990;N/A;N/A;N/A;N/A;N/A;N/A
+14649717;Kristina;Mikheeva;1;Когалым;21.6;N/A;N/A;N/A;N/A;N/A;N/A
+2188682;Elena;Strukova;1;Когалым;N/A;Тольятти;married;;0;Православие;N/A
+212634829;Krestina;Maslova;1;Когалым;15.9;N/A;N/A;N/A;N/A;N/A;N/A
+206826245;Dzyudo-Sila;Navsegda;2;Когалым;N/A;-Когалым-;in love;ТюмГНГУ (КФ);0;N/A;N/A
+190426073;Margarita;Ostafichuk;1;Когалым;12.4.1983;N/A;N/A;N/A;N/A;N/A;N/A
+164776547;Gleb;Veber;2;Когалым;28.9;N/A;N/A;N/A;N/A;N/A;N/A
+158649392;Yulia;Strokova;1;Когалым;9.1;N/A;N/A;N/A;N/A;N/A;N/A
+143381901;Kristina;Yakupova;1;Когалым;3.4.1990;N/A;N/A;N/A;N/A;N/A;N/A
+142262463;Ekaterina;Litvinova;1;Когалым;1.2.1988;N/A;N/A;N/A;N/A;N/A;N/A
+137111199;Evgenia;Kuznetsova;1;Когалым;10.2;N/A;N/A;N/A;N/A;N/A;N/A
+136734267;Anya;Lyapustina;1;Когалым;14.2;N/A;N/A;N/A;N/A;N/A;N/A
+134651210;Alisa;Romanova;1;Когалым;30.7.1920;N/A;N/A;N/A;N/A;N/A;N/A
+125135789;Gulnaz;Rafikova;1;Когалым;16.5;Когалым;single;СИФК (ф) УралГУФК;2019;Ислам;['Русский', 'English']
+75062251;Lilia;Akhunova;1;Когалым;20.5.1988;N/A;N/A;N/A;N/A;N/A;N/A
+74414213;Anastasia;Sotnikova;1;Когалым;25.7;N/A;N/A;N/A;N/A;N/A;N/A
+73672042;Darya;Vinogradova;1;Когалым;28.2;N/A;N/A;N/A;N/A;N/A;N/A
+71268896;Samal;Seytbagimova;1;Когалым;23.11.1997;N/A;N/A;N/A;N/A;N/A;N/A
+44342351;Zulya;Veliar;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+41728043;Tatyana;Ulovskaya;1;Когалым;25.5.1989;N/A;N/A;N/A;N/A;N/A;N/A
+25538648;Prosto;Nastyushka;1;Когалым;27.7.1993;N/A;N/A;N/A;N/A;N/A;N/A
+25373360;Leyla;Sharifzanova;1;Когалым;17.12;N/A;N/A;N/A;N/A;N/A;N/A
+22630143;Maria;Matsyuk;1;Когалым;29.9.1990;г.Когалым;married;НаУ ОА;2012;Православие;['Русский', 'English']
+22166847;Natasha;Zaytseva;1;Когалым;25.3.1992;N/A;N/A;N/A;N/A;N/A;N/A
+17811172;Irishka;Ganzha;1;Когалым;8.10.1991;N/A;N/A;N/A;N/A;N/A;N/A
+17290310;Ksenia;Tanygina;1;Когалым;26.9.1989;N/A;N/A;N/A;N/A;N/A;N/A
+11930875;Ilshat;Musin;2;Когалым;13.3;N/A;N/A;N/A;N/A;N/A;N/A
+11809177;Nadezhda;Vakhitova;1;Когалым;14.12.1990;N/A;N/A;N/A;N/A;N/A;N/A
+11481135;Alexandra;Kustova;1;Когалым;11.5.1991;N/A;N/A;N/A;N/A;N/A;N/A
+11361791;Yulka;Rumyantseva;1;Когалым;26.11.1986;N/A;N/A;N/A;N/A;N/A;N/A
+4732256;Alexander;Makarov;2;Когалым;21.3;N/A;N/A;N/A;N/A;N/A;N/A
+3817096;Nastya;Omelchenko;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+1359166;Anka;Belousova;1;Когалым;7.10.1983;Симферополь, Когалым;married;ТГУ;2005;Православие;N/A
+690426;Khanifa;Zorina;1;Когалым;3.2.1989;N/A;N/A;N/A;N/A;N/A;N/A
+191578265;Artur;Shimansky;2;Когалым;18.2.2000;Когалым;in love;;0;Православие;N/A
+188518066;Lidia;Anyutina;1;Когалым;1.11;N/A;N/A;N/A;N/A;N/A;N/A
+188091901;Kristina;Kalinovskaya;1;Когалым;20.4.1990;N/A;N/A;N/A;N/A;N/A;N/A
+179557443;Elena;Semkina;1;Когалым;21.5;N/A;N/A;N/A;N/A;N/A;N/A
+146922642;Anastasia;Dubrovskaya;1;Когалым;24.10;N/A;N/A;N/A;N/A;N/A;N/A
+144387210;Artur;Ryabov;2;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+144248876;Alina;Kungurova;1;Когалым;5.11.1990;N/A;N/A;N/A;N/A;N/A;N/A
+143846889;Natalya;Vasilyeva;1;Когалым;14.8;N/A;N/A;N/A;N/A;N/A;N/A
+116811667;Lira;Rashitova;1;Когалым;21.11;N/A;N/A;N/A;N/A;N/A;N/A
+116708078;Masha;Kakurina;1;Когалым;6.9.1994;N/A;N/A;N/A;N/A;N/A;N/A
+114023644;Maria;Koroleva;1;Когалым;8.5.1990;N/A;N/A;N/A;N/A;N/A;N/A
+107978099;Ekaterina;Choty;1;Когалым;1.6;N/A;N/A;N/A;N/A;N/A;N/A
+97199340;Milada;Azizova;1;Когалым;30.8.1997;N/A;N/A;N/A;N/A;N/A;N/A
+95815378;Artyom;Gnatyuk;2;Когалым;9.4.1998;N/A;N/A;N/A;N/A;N/A;N/A
+95440007;Viktoria;Golubeva;1;Когалым;17.6;N/A;N/A;N/A;N/A;N/A;N/A
+95088925;Elena;Khitrova;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+79352051;Shavkat;Bulatov;2;Когалым;13.10;N/A;N/A;N/A;N/A;N/A;N/A
+75766084;Ramis;Sharifullin;2;Когалым;22.2;Чекмагуш;in love;;0;Ислам;['Русский', 'English']
+75484165;Nastya;Mikhaylova;1;Когалым;20.3;N/A;N/A;N/A;N/A;N/A;N/A
+72577030;Zhenya;Akrytov;2;Когалым;10.5.2000;N/A;N/A;N/A;N/A;N/A;N/A
+59053231;Ekaterina;Novitskaya;1;Когалым;14.2.1989;N/A;N/A;N/A;N/A;N/A;N/A
+55431465;Irina;Petrushina;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+54805728;Zhenya;Sova;1;Когалым;10.1.1996;N/A;N/A;N/A;N/A;N/A;N/A
+53028942;Marina;Kovtun;1;Когалым;16.8.1986;N/A;N/A;N/A;N/A;N/A;N/A
+39489604;Viktoria;Antipina;1;Когалым;22.4;Когалым-Кувандык;in a relationship;ТюмГУ (КФ);0;христианка я;['Русский', 'English']
+38656716;Andrey;Kholin;2;Когалым;31.12;N/A;N/A;N/A;N/A;N/A;N/A
+37201112;Alla;Berezhko;1;Когалым;30.1.1989;N/A;N/A;N/A;N/A;N/A;N/A
+33694180;Nikita;Bykov;2;Когалым;16.6.1996;Когалым  Туймазы;in love;;0;Православие;['Русский', 'English']
+27000865;Maria;Matyuschenko;1;Когалым;18.7.1989;N/A;N/A;N/A;N/A;N/A;N/A
+23051315;Maria;Novitskaya;1;Когалым;28.9;N/A;N/A;N/A;N/A;N/A;N/A
+19795824;Kristina;Komasova;1;Когалым;7.3.1993;N/A;N/A;N/A;N/A;N/A;N/A
+18905268;Evgenia;Polskikh;1;Когалым;4.9.1990;Текели;married;НГТУ (НЭТИ);2013;Православие;['Русский', 'English']
+14833276;Svetlana;Khabipova;1;Когалым;23.12;N/A;N/A;N/A;N/A;N/A;N/A
+13910885;Andrey;Yatsik;2;Когалым;5.11;N/A;N/A;N/A;N/A;N/A;N/A
+13825045;Evgenia;Ivanova;1;Когалым;30.12;N/A;N/A;N/A;N/A;N/A;N/A
+11082319;Alexandra;Chemeris;1;Когалым;22.5.1988;N/A;N/A;N/A;N/A;N/A;N/A
+7549587;Elena;Dukhnich;1;Когалым;28.9.1986;N/A;N/A;N/A;N/A;N/A;N/A
+5797268;Tatyana;Valieva;1;Когалым;6.8;N/A;N/A;N/A;N/A;N/A;N/A
+5583356;Scherbet;Kerimova;1;Когалым;12.2;N/A;N/A;N/A;N/A;N/A;N/A
+4817615;Lilia;Ilina;1;Когалым;28.8.1986;N/A;N/A;N/A;N/A;N/A;N/A
+1387406;Sveta;Logunova;1;Когалым;13.11.1984;N/A;N/A;N/A;N/A;N/A;N/A
+296881141;Amina;Idrisova;1;Когалым;14.3.2000;N/A;N/A;N/A;N/A;N/A;N/A
+256692732;Marina;Krivtsova;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+252117027;Mariam;Kuznetsova;1;Когалым;21.12;N/A;N/A;N/A;N/A;N/A;N/A
+206598969;Olga;Voroshilina;1;Когалым;13.10.1993;N/A;N/A;N/A;N/A;N/A;N/A
+203797420;Evgenia;Balan;1;Когалым;4.12;N/A;N/A;N/A;N/A;N/A;N/A
+200694221;Serezha;Efimov;2;Когалым;14.8;Когалым;married;;0;Православие;N/A
+181477585;Yulia;Shaykhlislamova;1;Когалым;17.10;N/A;N/A;N/A;N/A;N/A;N/A
+158113268;Dasha;Proskuryakova;1;Когалым;4.2;N/A;N/A;N/A;N/A;N/A;N/A
+198882268;Anastasia;Gorodnichaya;1;Когалым;22.4.1994;Когалым-Шадринск;in a relationship;;0;N/A;N/A
+157871846;Anastasia;Dolgoruk;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+154301109;Alfia;Galianova;1;Когалым;14.4;N/A;N/A;N/A;N/A;N/A;N/A
+139377225;Tariel;Guluev;2;Когалым;23.10.1990;Когалым;actively searching;;0;Ислам;['Русский', 'English']
+139156436;Rayana;Murtuzalieva;1;Когалым;29.4;N/A;N/A;N/A;N/A;N/A;N/A
+138381996;Anastasia;Shadrina;1;Когалым;5.8;N/A;N/A;N/A;N/A;N/A;N/A
+138136771;Dasha;Vedernikova;1;Когалым;9.9;N/A;N/A;N/A;N/A;N/A;N/A
+124444233;Alyona;Fadeeva;1;Когалым;9.3.1988;N/A;N/A;N/A;N/A;N/A;N/A
+121469236;Ekaterina;Zemlyanova;1;Когалым;24.4.1990;N/A;N/A;N/A;N/A;N/A;N/A
+120356204;Maryana;Voropaeva;1;Когалым;8.6;N/A;N/A;N/A;N/A;N/A;N/A
+118646040;Nikita;Petrov;2;Когалым;N/A;Москва,Уфа;in love;;0;N/A;['Русский', 'English']
+103439799;Vlada;Terentyeva;1;Когалым;2.6;Когалым;in love;;0;N/A;['Русский']
+103081787;Akhad;Shukyurov;2;Когалым;4.8.1997;Баку;married;;0;Ислам;N/A
+102557273;Nadezhda;Yakovleva;1;Когалым;18.12;N/A;N/A;N/A;N/A;N/A;N/A
+100607342;Nikita;Svinaryov;2;Когалым;8.5;N/A;N/A;N/A;N/A;N/A;N/A
+91093961;Rasul;Aliev;2;Когалым;19.8.1997;когалым;actively searching;;0;islam;['Русский', 'English']
+88712823;Alexander;Tsurkan;2;Когалым;15.11.1996;N/A;N/A;N/A;N/A;N/A;N/A
+88552260;Alina;Asylova;1;Когалым;15.3.1993;N/A;N/A;N/A;N/A;N/A;N/A
+87557344;Evgeny;Berezin;2;Когалым;12.11.1983;N/A;N/A;N/A;N/A;N/A;N/A
+82670567;Anzhelika;Chernyshova;1;Когалым;11.10.1990;N/A;N/A;N/A;N/A;N/A;N/A
+75402631;Katerina;Bobrovnik;1;Когалым;13.4.1987;N/A;N/A;N/A;N/A;N/A;N/A
+71344911;Igor;Ivanov;2;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+70963584;Alia;Khalimova;1;Когалым;3.5;Уфа;in love;УГНТУ;2013;N/A;N/A
+60669367;Alina;Gnatishin;1;Когалым;19.6;N/A;N/A;N/A;N/A;N/A;N/A
+59480032;Yulia;Dyakovich;1;Когалым;19.8;N/A;N/A;N/A;N/A;N/A;N/A
+132815032;Elena;Batenyova;1;Когалым;24.1.1992;N/A;N/A;N/A;N/A;N/A;N/A
+58874145;Denis;Bondarenko;2;Когалым;25.3;N/A;N/A;N/A;N/A;N/A;N/A
+144995425;Marina;Karatova;1;Когалым;10.1;Тюмень;in love;Школа-студия МХАТ;2000;Православие;N/A
+45658472;Roman;Yamaev;2;Когалым;14.2.1993;N/A;N/A;N/A;N/A;N/A;N/A
+42339873;Yulia;Terenty;1;Когалым;21.4.1980;N/A;N/A;N/A;N/A;N/A;N/A
+41377804;Natalya;Klinskaya;1;Когалым;24.2.1901;N/A;N/A;N/A;N/A;N/A;N/A
+38032076;Svetlana;Onkina;1;Когалым;4.1.1984;N/A;N/A;N/A;N/A;N/A;N/A
+37524435;Olesya;Latypova;1;Когалым;22.8.1988;Нижневартовск;married;СибАДИ (филиал);2010;Ислам;N/A
+37105073;Elizaveta;Turchaninova;1;Когалым;14.5;N/A;N/A;N/A;N/A;N/A;N/A
+36373295;Yanochka;Mardus;1;Когалым;8.4.1994;N/A;N/A;N/A;N/A;N/A;N/A
+34186677;Yulia;Burkhanova;1;Когалым;21.10;N/A;N/A;N/A;N/A;N/A;N/A
+34047838;Alexandra;Androsenko;1;Когалым;9.6.1992;N/A;N/A;N/A;N/A;N/A;N/A
+32650957;Lyubov;Vibe;1;Когалым;16.4;N/A;N/A;N/A;N/A;N/A;N/A
+32222514;Alsu;Galieva;1;Когалым;1.11;N/A;N/A;N/A;N/A;N/A;N/A
+26882394;Nyutka;Polyakova;1;Когалым;20.3.1989;N/A;N/A;N/A;N/A;N/A;N/A
+26690226;Sonya;Arefyeva;1;Когалым;1.10;Lima;in love;American Musical and Dramatic Academy;0;Chris Colfer;N/A
+26226221;Nadezhda;Alkina;1;Когалым;4.7;N/A;N/A;N/A;N/A;N/A;N/A
+25611492;Regina;Fattakhova;1;Когалым;30.5.1990;Нягань, Когалым, Туймазы, Кандрыкуль;single;ТюмГУ (КФ);2012;N/A;N/A
+21750189;Ksenia;Gubanova;1;Когалым;26.11.1991;N/A;N/A;N/A;N/A;N/A;N/A
+21481693;Ekaterina;Chesnakova;1;Когалым;28.6;N/A;N/A;N/A;N/A;N/A;N/A
+21466868;Alexander;Belov;2;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+20910441;Yulia;Semenishina;1;Когалым;19.12;N/A;N/A;N/A;N/A;N/A;N/A
+15802889;Lenochka;Pechalina;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+14947640;Zalina;Akmurzaeva;1;Когалым;18.8.1992;N/A;N/A;N/A;N/A;N/A;N/A
+14265960;Irina;Savina;1;Когалым;4.4.1989;N/A;N/A;N/A;N/A;N/A;N/A
+12223342;Dmitry;Yarmolyuk;2;Когалым;18.2;N/A;N/A;N/A;N/A;N/A;N/A
+10354734;Ceda;Knyazyan;1;Когалым;5.3.1991;N/A;N/A;N/A;N/A;N/A;N/A
+10019403;Tatyana;Medvedeva;1;Когалым;6.12.1984;Абакан;married;ТГУ;2007;N/A;N/A
+9916144;Kristina;Prikhodchenko;1;Когалым;21.1.1991;Когалым;married;ТюмГУ (КФ);2012;Православие;N/A
+9805719;Irishka;Videneeva;1;Когалым;14.6;N/A;N/A;N/A;N/A;N/A;N/A
+7155821;Gulnara;Utepova;1;Когалым;30.4.1991;N/A;N/A;N/A;N/A;N/A;N/A
+6888373;Nastya;Zhukova;1;Когалым;19.6;N/A;N/A;N/A;N/A;N/A;N/A
+6703182;Alexander;Kosolapov;2;Когалым;30.9.1988;N/A;N/A;N/A;N/A;N/A;N/A
+6606391;Natalia;Semenova;1;Когалым;1.9.1983;N/A;N/A;N/A;N/A;N/A;N/A
+3574711;Irina;Pogorelova;1;Когалым;27.6;N/A;N/A;N/A;N/A;N/A;N/A
+3392306;Anastasia;Yapparova;1;Когалым;23.12;N/A;N/A;N/A;N/A;N/A;N/A
+2906476;Tanyushka;Zanilidi;1;Когалым;17.6.1987;Бишкек,Когалым,Курск,Анапа;married;ЮЗГУ (КурскГТУ);2009;Православные;N/A
+2750112;Guzel;Gaynetdinova;1;Когалым;27.5;N/A;N/A;N/A;N/A;N/A;N/A
+1223153;Roman;Shadrin;2;Когалым;29.10.1987;N/A;N/A;N/A;N/A;N/A;N/A
+1002822;Kristina;Milova;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+411539;Khristina;Bukhtiarova;1;Когалым;12.1.1984;N/A;N/A;N/A;N/A;N/A;N/A
+199669;Roman;Revak;2;Когалым;6.7.1987;N/A;N/A;N/A;N/A;N/A;N/A
+227295269;Viktoria;Chernokozha;1;Когалым;18.5;Когалым;in love;;0;N/A;N/A
+226678780;Bogdana;Getman;1;Когалым;26.3.1982;;single;ТюмГУ;2007;N/A;N/A
+220382282;Ekaterina;Kantur;1;Когалым;24.5.1994;Ленинградская;in love;;0;Православие;N/A
+217832013;Lilia;Sadykova;1;Когалым;12.8;Рузаевка;single;;0;N/A;N/A
+202439057;Anastasia;Kozlova;1;Когалым;22.2;N/A;N/A;N/A;N/A;N/A;N/A
+200553665;Nikita;Khrapunov;2;Когалым;7.4;N/A;N/A;N/A;N/A;N/A;N/A
+198196078;Veronika;Yumakaeva;1;Когалым;17.10.2000;Когалым,Тобольск,Геленджик,Казахстан,Киргизия,Украина,Прага;it's complicated;;0;Православие;['Русский', 'English']
+195287874;Said;Rzgoyan;2;Когалым;21.12.1997;;in love;;0;N/A;N/A
+183094908;Nastasya;Krylovskaya;1;Когалым;14.8;N/A;N/A;N/A;N/A;N/A;N/A
+181335053;Zhanna;Ganeeva;1;Когалым;15.12;N/A;N/A;N/A;N/A;N/A;N/A
+181064287;Guzel;Talipova;1;Когалым;23.9;N/A;N/A;N/A;N/A;N/A;N/A
+180359640;Ksenia;Romanova;1;Когалым;3.7.1991;N/A;N/A;N/A;N/A;N/A;N/A
+166268823;Diana;Gasanova;1;Когалым;14.11;N/A;N/A;N/A;N/A;N/A;N/A
+162401844;Ilya;Mokrienko;2;Когалым;11.4.2000;N/A;N/A;N/A;N/A;N/A;N/A
+159989655;Anastasia;Gafarova;1;Когалым;28.3.1994;N/A;N/A;N/A;N/A;N/A;N/A
+159467463;Rita;Gabunia;1;Когалым;25.1.1995;Москва;in a relationship;ТюмГУ (КФ);0;Православие;N/A
+153567365;Gulnaz;Galina;1;Когалым;19.3.1988;N/A;N/A;N/A;N/A;N/A;N/A
+153307787;Darya;Khoma;1;Когалым;12.12.2001;N/A;N/A;N/A;N/A;N/A;N/A
+152502847;Andrey;Kholodtsev;2;Когалым;18.6.1986;N/A;N/A;N/A;N/A;N/A;N/A
+151642675;Vita;Nikolaevna;1;Когалым;26.7;N/A;N/A;N/A;N/A;N/A;N/A
+146606140;Andrey;Schinnikov;2;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+146082767;Akim;Umarov;2;Когалым;12.7;N/A;N/A;N/A;N/A;N/A;N/A
+146046859;Irina;Gabdulkhabirova-Gussamova;1;Когалым;21.3;N/A;N/A;N/A;N/A;N/A;N/A
+144745285;Aga;Guseynov;2;Когалым;3.3.1996;N/A;N/A;N/A;N/A;N/A;N/A
+140106377;Polina;Rybak;1;Когалым;7.11;N/A;N/A;N/A;N/A;N/A;N/A
+139271495;Gulya;Alexeeva;1;Когалым;13.10;N/A;N/A;N/A;N/A;N/A;N/A
+138373386;Artyom;Solomakhin;2;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+137651266;Ulvi;Utsiev;2;Когалым;15.7.1994;там где при встрече говорят  Ассаламу Алейкум;in love;ТюмГУ (КФ);0;Ислам;['Русский', 'English']
+113721085;Igor;Volk;2;Когалым;22.2;N/A;N/A;N/A;N/A;N/A;N/A
+108623132;Ulyana;Osipova;1;Когалым;10.3.1995;В клетчатой тетрадке...;actively searching;СурГУ;2017;Панкство;['Русский', 'English']
+108449868;Kristina;Isangildina;1;Когалым;2.1;N/A;N/A;N/A;N/A;N/A;N/A
+107289418;Dzhenna;Balto;1;Когалым;21.1.1998;N/A;N/A;N/A;N/A;N/A;N/A
+96214852;Yulia;Karetskaya;1;Когалым;2.1.1994;N/A;N/A;N/A;N/A;N/A;N/A
+95078477;Maryana;Begova;1;Когалым;29.4.1987;Каменец-Подольский;single;;0;Верю в Бога;N/A
+114124477;Alenka;Kruglova;1;Когалым;21.7;N/A;N/A;N/A;N/A;N/A;N/A
+92171663;Ekaterina;Yapparova(yatsik);1;Когалым;13.10;N/A;N/A;N/A;N/A;N/A;N/A
+85830746;Alyonka;Petrushina;1;Когалым;1.8.1996;N/A;N/A;N/A;N/A;N/A;N/A
+83560109;Svetlana;Scherbenok;1;Когалым;15.1;N/A;N/A;N/A;N/A;N/A;N/A
+81243933;Ramazan;Salikhov;2;Когалым;30.1.1998;Когалым;in love;;0;N/A;['Русский', 'English']
+76817050;Pavel;Khudoborodov;2;Когалым;12.7.1997;N/A;N/A;N/A;N/A;N/A;N/A
+71035556;Zulfia;Gizatullina;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+70668666;Nikita;Koynov;2;Когалым;10.5.2000;когалым;actively searching;ТУСУР (КФ);2016;Я РУССКИЙ!!!!!!;['Русский', 'English']
+70646956;Alina;Kilikaeva;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+69739559;Rushania;Tarasova (adgamova);1;Когалым;7.8;N/A;N/A;N/A;N/A;N/A;N/A
+65425018;Albina;Nigmatullina;1;Когалым;25.8;N/A;N/A;N/A;N/A;N/A;N/A
+63184293;Ruslan;Aminev;2;Когалым;4.5;N/A;N/A;N/A;N/A;N/A;N/A
+63167402;Anyuta;Eremchuk;1;Когалым;11.5.1989;N/A;N/A;N/A;N/A;N/A;N/A
+62666975;Karina;Bryxina;1;Когалым;19.11.1991;N/A;N/A;N/A;N/A;N/A;N/A
+132808482;Sergey;Korolev;2;Когалым;5.8.1998;N/A;N/A;N/A;N/A;N/A;N/A
+60679841;Dmitry;Ayupov;2;Когалым;1.2;Beyond Space;in love;ТУСУР;0;никто не вечен.;['Русский', 'English']
+60214183;Anastasia;Sak;1;Когалым;24.3.1983;Омск;married;ТГСПА им. Менделеева (ТГПИ);2005;N/A;N/A
+59865401;Dzhavid;Tagiev;2;Когалым;18.9.1991;НЕФТЧАЛА;married;ADNSU (ADNA, бывш. АГНА, АзИНЕФТЕХИМ);0;Ислам;['Русский', 'English']
+58238956;Dilara;Vershinina;1;Когалым;3.12;N/A;N/A;N/A;N/A;N/A;N/A
+58196428;Danil;Matytsin;2;Когалым;2.6;N/A;N/A;N/A;N/A;N/A;N/A
+57274857;Guzelya;Petrovskaya;1;Когалым;11.4;N/A;N/A;N/A;N/A;N/A;N/A
+54941384;Galina;Karplyak;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+50474545;Irina;Tretyakova;1;Когалым;12.6;N/A;N/A;N/A;N/A;N/A;N/A
+48154326;Maria;Goryacheva;1;Когалым;8.9;N/A;N/A;N/A;N/A;N/A;N/A
+165041326;Elena;Evtushenko;1;Когалым;24.3.1992;N/A;N/A;N/A;N/A;N/A;N/A
+47440375;Ekaterina;Alexeeva;1;Когалым;5.6;N/A;N/A;N/A;N/A;N/A;N/A
+40851953;Marina;Solovyeva;1;Когалым;10.2.1989;Kогалым;married;ЧФ РАНХиГС (УрАГС ЧФ);2013;Православие;N/A
+38065775;Maria;Kuznetsova;1;Когалым;22.8;N/A;N/A;N/A;N/A;N/A;N/A
+37427581;Valentina;Dubovaya;1;Когалым;1.3;N/A;N/A;N/A;N/A;N/A;N/A
+36825120;Alina;Murtazina;1;Когалым;7.7.1990;N/A;N/A;N/A;N/A;N/A;N/A
+31122159;Gulnur;Nigmatzyanova;1;Когалым;2.4;N/A;N/A;N/A;N/A;N/A;N/A
+30242911;Kristina;Kazakova;1;Когалым;14.11.1990;N/A;N/A;N/A;N/A;N/A;N/A
+29872144;Kristina;Grits;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+28914578;Irina;Lebedeva;1;Когалым;22.8;Когалым;in love;МГПУ;2008;Пантеизм;N/A
+27584536;Anastasia;Sokolova;1;Когалым;13.8.1982;N/A;N/A;N/A;N/A;N/A;N/A
+27015611;Alyonka;Krasnoyarova;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+26920497;Olga;Kleschina;1;Когалым;23.7.1985;N/A;N/A;N/A;N/A;N/A;N/A
+26561960;Olga;Okulova;1;Когалым;18.9;;in love;МОСУ (МФ);2007;N/A;N/A
+23385987;Nikolay;Romanov;2;Когалым;4.4.1987;N/A;N/A;N/A;N/A;N/A;N/A
+22888395;Tatyana;Mlynarzhevskaya;1;Когалым;10.3.1988;N/A;N/A;N/A;N/A;N/A;N/A
+22830791;Katerina;Kamalova;1;Когалым;4.5;N/A;N/A;N/A;N/A;N/A;N/A
+22750618;Kristyusha;Kozlova;1;Когалым;7.1.1992;N/A;N/A;N/A;N/A;N/A;N/A
+21124247;Vitya;Sharpe;2;Когалым;16.11.1993;N/A;N/A;N/A;N/A;N/A;N/A
+20512213;Tanya;Kosolapova;1;Когалым;4.8.1992;N/A;N/A;N/A;N/A;N/A;N/A
+20393104;Elena;Rasstrygina;1;Когалым;4.12;N/A;N/A;N/A;N/A;N/A;N/A
+19918117;Katerina;Eryomenko;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+19456322;Galina;Kirdyashyova;1;Когалым;16.4;Когалым;it's complicated;;0;N/A;N/A
+18904739;Ekaterina;Novoselova;1;Когалым;11.12.1990;Тобольск;married;ЕврИЭМИ;2013;Бог есть!;N/A
+18702544;Dashulya;Solovyeva;1;Когалым;12.6.1988;N/A;N/A;N/A;N/A;N/A;N/A
+18628684;Yulyashka;Shalonko;1;Когалым;18.6;N/A;N/A;N/A;N/A;N/A;N/A
+17374610;Ekaterina;Bolshepaeva;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+16179374;Andrey;Guzhva;2;Когалым;12.7.1991;N/A;N/A;N/A;N/A;N/A;N/A
+16011125;Oksana;Anischenko;1;Когалым;13.11.1987;N/A;N/A;N/A;N/A;N/A;N/A
+15581615;Alexander;Chernukhin;2;Когалым;22.5.1988;N/A;N/A;N/A;N/A;N/A;N/A
+14124682;Masha;Kalenskaya;1;Когалым;3.8.1990;Сатка....Когалым;single;ЮУрГУ (НИУ);2013;Христианство;N/A
+13793644;Viktoria;Vysotskaya;1;Когалым;28.9.1990;Когалым;in love;УрГЭУ (СИНХ);2012;Православие;N/A
+13790367;Ruslana;Khomina;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+12832608;Alexandra;Khramtsova;1;Когалым;2.5.1987;N/A;N/A;N/A;N/A;N/A;N/A
+10653009;Alisa;Korovikova-Kryuchkova;1;Когалым;18.1.1990;N/A;N/A;N/A;N/A;N/A;N/A
+10373041;Maxim;Fedyashin;2;Когалым;26.5.1998;N/A;N/A;N/A;N/A;N/A;N/A
+10279764;Alexander;Ribrov;2;Когалым;14.8.1991;N/A;N/A;N/A;N/A;N/A;N/A
+9958027;Yaroslava;Nikulina;1;Когалым;15.8;N/A;N/A;N/A;N/A;N/A;N/A
+8682381;Natalya;Lebedeva;1;Когалым;N/A;Великий Новгород;in love;НовГУ;0;N/A;N/A
+7807825;Inna;Marchenko;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+7785277;Anna;Matveeva;1;Когалым;13.5;N/A;N/A;N/A;N/A;N/A;N/A
+7726695;Danila;Sayfutdinov;2;Когалым;19.9.1992;N/A;N/A;N/A;N/A;N/A;N/A
+4655325;Arsen;Gasanbekov;2;Когалым;10.1.1990;N/A;N/A;N/A;N/A;N/A;N/A
+3998126;Anastasia;Viktorovna;1;Когалым;25.1;N/A;N/A;N/A;N/A;N/A;N/A
+154168126;Anna;Miroshnichenko;1;Когалым;18.2.1990;N/A;N/A;N/A;N/A;N/A;N/A
+3847422;Aydar;Zaydullin;2;Когалым;6.12.1986;N/A;N/A;N/A;N/A;N/A;N/A
+2272241;Marsel;Mustafin;2;Когалым;18.3.1986;N/A;N/A;N/A;N/A;N/A;N/A
+2048521;Artur;Rangulov;2;Когалым;24.1;N/A;N/A;N/A;N/A;N/A;N/A
+1227568;Anastasia;Romanyuk;1;Когалым;10.4.1986;N/A;N/A;N/A;N/A;N/A;N/A
+98395568;Roma;Akhmetzyanov;2;Когалым;17.10;N/A;N/A;N/A;N/A;N/A;N/A
+345057118;Patya;Prakopyeva;1;Когалым;28.7.1999;;in love;;0;Ислам;N/A
+315710491;Stasya;Kogalymskaya;1;Когалым;14.8;N/A;N/A;N/A;N/A;N/A;N/A
+313939782;Eva;Danilova;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+310126831;Love;It;1;Когалым;6.8;;married;;0;N/A;N/A
+278223472;Katya;Samarskaya;1;Когалым;19.4;N/A;N/A;N/A;N/A;N/A;N/A
+277969159;Vlada;Obukhova;1;Когалым;24.7;Когалым;in love;;0;N/A;N/A
+275930004;Oksana;Kolodyazhnaya;1;Когалым;26.1.1976;N/A;N/A;N/A;N/A;N/A;N/A
+275895825;Olya;Grabets;1;Когалым;N/A;Когалым;in love;;0;N/A;['Русский', 'English']
+264241497;Elena;Smirnova;1;Когалым;27.8;N/A;N/A;N/A;N/A;N/A;N/A
+258899856;Olesya;Petrova;1;Когалым;19.7;N/A;N/A;N/A;N/A;N/A;N/A
+257557903;Evgeny;Salnikov;2;Когалым;5.1;;in love;;0;N/A;N/A
+255458797;Tatyana;Gorbacheva;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+238151783;Oksana;Mogil;1;Когалым;22.12.1986;Когалым;single;;0;N/A;N/A
+236874519;Lyubov;Nikiforova;1;Когалым;N/A;;in love;;0;N/A;N/A
+236183836;Olga;Kokorina;1;Когалым;16.2;N/A;N/A;N/A;N/A;N/A;N/A
+235629907;Anna;Kapral;1;Когалым;27.6;N/A;N/A;N/A;N/A;N/A;N/A
+228352891;Diana;Perlova;1;Когалым;22.12;Мегион;in love;;0;Православие;N/A
+228024441;Valera;Plotnikov;2;Когалым;N/A;когалым;in love;;0;N/A;['Русский', 'English']
+227994497;Tanya;Markeeva;1;Когалым;25.1;N/A;N/A;N/A;N/A;N/A;N/A
+227641813;Alexey;Kogalymsky;2;Когалым;17.10.2000;когалым;actively searching;;0;N/A;N/A
+219301050;Sofia;Rusinova;1;Когалым;21.6;N/A;N/A;N/A;N/A;N/A;N/A
+217904945;Nastya;Petraki;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+217377705;Yulia;Yuryevna;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+216728580;Khavushka;Khayrullina;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+210640381;Egor;Demidenko;2;Когалым;11.10;N/A;N/A;N/A;N/A;N/A;N/A
+210294761;Rustem;Khasanov;2;Когалым;3.1.1901;;in a relationship;;0;N/A;['Русский', 'English']
+210111312;Marina;Grigoryevykh;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+208708106;Βiktoria;Γerasimova;1;Когалым;8.7.1987;Когалым;in love;;0;N/A;N/A
+205286954;Nika;Olshevskaya;1;Когалым;8.1.2002;Когалым;in love;;0;N/A;N/A
+205049207;Svetlana;Makarova;1;Когалым;19.1.1977;N/A;N/A;N/A;N/A;N/A;N/A
+203713647;Alexey;Golub;2;Когалым;19.7.2002;N/A;N/A;N/A;N/A;N/A;N/A
+202107572;Andrey;Petrenko;2;Когалым;29.4.2001;когалым;in a relationship;;0;N/A;N/A
+198817102;Shakhin;Ismiev;2;Когалым;28.7.2000;N/A;N/A;N/A;N/A;N/A;N/A
+197684340;Sveta;Zimina;1;Когалым;6.8;;in a relationship;;0;N/A;N/A
+195977223;Anna;Volkova;1;Когалым;10.11;N/A;N/A;N/A;N/A;N/A;N/A
+194112838;Lilia;Kotselap;1;Когалым;4.6.1901;Когалым;married;;0;N/A;N/A
+188254080;Nidzhat;Mekhtiev;2;Когалым;N/A;BAKU;in love;;0;N/A;['Русский', 'English']
+188048781;Yulia;Olshevskaya;1;Когалым;27.6.1991;N/A;N/A;N/A;N/A;N/A;N/A
+187987059;Alyona;Shagabudinova;1;Когалым;18.1;Когалым;in love;;0;N/A;N/A
+187915255;Kristina;Pankova;1;Когалым;9.8;N/A;N/A;N/A;N/A;N/A;N/A
+240296777;Alexandra;Topchaeva;1;Когалым;23.7.1998;;in love;;0;N/A;N/A
+187360113;Axana;Fevrvleva;1;Когалым;8.2.1997;Когалым4ик:*;actively searching;;0;N/A;N/A
+187061119;Olga;Petrova;1;Когалым;24.9.1984;N/A;N/A;N/A;N/A;N/A;N/A
+186082856;Karina;Galimbaeva;1;Когалым;17.4;Белебей;in love;;0;N/A;N/A
+183037809;Vorobyeva;Marina;1;Когалым;14.9;;in love;ТюмГУ (КФ);2007;N/A;N/A
+183002535;Makhach;Dagestan;2;Когалым;5.9;А эт те надо?;in love;ТюмГУ (КФ);0;Ислам;['Русский', 'English']
+181635442;Cherri;Kotov;2;Когалым;15.6;N/A;N/A;N/A;N/A;N/A;N/A
+181058107;Vadim;Valeev;2;Когалым;8.9;N/A;N/A;N/A;N/A;N/A;N/A
+179439438;Arina;Prakht;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+177776894;Nikita;Lavrov;2;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+175680626;Dima;Silenkov;2;Когалым;15.6.2001;N/A;N/A;N/A;N/A;N/A;N/A
+174958961;Sergey;Yanusov;2;Когалым;12.5.1999;Когалым!!!;in love;;0;N/A;N/A
+171722033;Valeria;Sokolova;1;Когалым;20.4.1901;▂▃▄▅๑۩۩ ๑Когалым๑۩۩๑▆▅▄▃;in love;;0;Ислам;N/A
+171277388;Yulia;Khisamova;1;Когалым;8.6.1976;;in love;БашГУ;1999;N/A;N/A
+170668659;Liza;Bryukhacheva;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+170278914;Aya;Adel;1;Когалым;22.1;N/A;N/A;N/A;N/A;N/A;N/A
+169347571;Yulya;Kravtsova;1;Когалым;20.12.2001;когалым;in love;;0;N/A;N/A
+168504235;Vadik;Bezugly;2;Когалым;31.7.1993;N/A;N/A;N/A;N/A;N/A;N/A
+167626808;Alexey;Moldovan;2;Когалым;25.2;N/A;N/A;N/A;N/A;N/A;N/A
+167295105;Sultanat;Makasheripova;1;Когалым;11.9.1991;когалым;married;ТЮИ МВД РФ;2014;N/A;['Русский', 'English']
+164640940;Anastasia;Novikova;1;Когалым;21.10;N/A;N/A;N/A;N/A;N/A;N/A
+164548779;Alexey;Kolyba;2;Когалым;17.2;Омск, п.Толька,Когалым;in love;;0;Православие;N/A
+164493391;Veronika;Kibets;1;Когалым;N/A;когалым;in love;;0;N/A;['Русский', 'English']
+164050358;Nastya;Ovchinnikova;1;Когалым;20.1;N/A;N/A;N/A;N/A;N/A;N/A
+159749310;Vladislav;Popov;2;Когалым;18.10.1994;N/A;N/A;N/A;N/A;N/A;N/A
+159259029;Nuria;Smakova;1;Когалым;3.9;N/A;N/A;N/A;N/A;N/A;N/A
+159073514;Linara;Sitdikova;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+158766906;Danil;Kozlov;2;Когалым;25.5;N/A;N/A;N/A;N/A;N/A;N/A
+156488954;Anya;Lipunova;1;Когалым;12.3.2001;Когалым;in love;;0;N/A;['Русский', 'English']
+156034691;Nina;Maslova;1;Когалым;24.5;N/A;N/A;N/A;N/A;N/A;N/A
+154606253;Irina;Komirchaya;1;Когалым;13.7;N/A;N/A;N/A;N/A;N/A;N/A
+154466075;Egor;Luchshy;2;Когалым;N/A;;in love;;0;Православие;N/A
+153451567;Denis;Pechenka;2;Когалым;17.8;N/A;N/A;N/A;N/A;N/A;N/A
+153398376;Murad;Azizov;2;Когалым;7.3.1995;Когалым;in love;;0;Ислам;N/A
+153123843;Chingiz;Islamov;2;Когалым;29.3.1998;янаул;actively searching;;0;Ислам;N/A
+152802287;Irina;Zarzhitskaya;1;Когалым;N/A;КОГАЛЫМ;married;СКИТУ (филиал) МГУТУ им. К.Г. Разумовского (бывш. РосЗИТиЛП);0;N/A;N/A
+148872913;Irina;Dorovskikh;1;Когалым;12.12;Когалым... Черкесск;engaged;;0;Православие;N/A
+147831091;Samir;Gadzhiev;2;Когалым;11.4.2000;N/A;N/A;N/A;N/A;N/A;N/A
+147020127;Alyona;Kechimova;1;Когалым;6.8;N/A;N/A;N/A;N/A;N/A;N/A
+146831670;Serega;Bodry;2;Когалым;31.3.1995;N/A;N/A;N/A;N/A;N/A;N/A
+144546895;Guseyn;Guseynov;2;Когалым;N/A;Когалым;in love;ТУСУР (КФ);2017;Ислам;N/A
+144428850;Ekaterina;Zaytseva;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+143973021;Nikita;Gigel;2;Когалым;10.6.1995;Когалым;married;ТУСУР (КФ);0;Православие;N/A
+143828129;Nadezhda;Sidorovich;1;Когалым;N/A;;in love;;0;Православие;N/A
+143198948;Irek;Khalikov;2;Когалым;5.4.1994;N/A;N/A;N/A;N/A;N/A;N/A
+140552452;Regina;Kharisova;1;Когалым;22.7;Туймазы;in love;;0;Ислам;N/A
+140519569;Elena;Klimova;1;Когалым;10.4;N/A;N/A;N/A;N/A;N/A;N/A
+140282325;Daria;Ice;1;Когалым;23.12;N/A;N/A;N/A;N/A;N/A;N/A
+137774945;Kirill;Shvets;2;Когалым;15.1;N/A;N/A;N/A;N/A;N/A;N/A
+137546649;Alina;Matveeva;1;Когалым;29.4.1986;Уфа Когалым;in love;;0;N/A;N/A
+136722734;Anastasia;Kot;1;Когалым;26.10.1998;N/A;N/A;N/A;N/A;N/A;N/A
+136701044;Vitya;Yachmenev;2;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+164928287;Ferida;Kurbanova;1;Когалым;18.3.1994;N/A;N/A;N/A;N/A;N/A;N/A
+135592192;Nikita;Nasibullin;2;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+135583177;Valekh;Aliev;2;Когалым;N/A;;in love;;0;N/A;N/A
+135263187;Alina;Musafirova;1;Когалым;28.11;Когалым;single;;0;N/A;['Русский', 'English']
+134141716;Yulia;Afanasyeva;1;Когалым;17.3.1980;N/A;N/A;N/A;N/A;N/A;N/A
+133631476;Lera;Zherikova;1;Когалым;16.5;c.Лопатино;in love;;0;Православие;N/A
+153635476;Nadyushka;Plotnikova;1;Когалым;3.11;N/A;N/A;N/A;N/A;N/A;N/A
+133169029;Darya;Kadar;1;Когалым;29.8.2000;Когалым;in love;;0;Православие;['Русский', 'English']
+125573288;Elza;Kotova;1;Когалым;17.10.2000;Люблю Его ↓И Только Его↓;actively searching;;0;N/A;N/A
+125298418;Roman;Ivanov;2;Когалым;28.11.1993;N/A;N/A;N/A;N/A;N/A;N/A
+125001505;Tosha;Nikon;2;Когалым;18.3.1993;Когалым;in love;;0;Православие;['Русский', 'English']
+124835401;Denis;Sheinov;2;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+121184344;Luiza;Emargeleeva;1;Когалым;17.3.1989;N/A;N/A;N/A;N/A;N/A;N/A
+120852805;Svetlana;Marina;1;Когалым;10.7;N/A;N/A;N/A;N/A;N/A;N/A
+117968937;Okhranyaemaya;Bratyami;1;Когалым;26.11.1992;N/A;N/A;N/A;N/A;N/A;N/A
+115982035;Natalya;Blinova;1;Когалым;26.11;N/A;N/A;N/A;N/A;N/A;N/A
+112503960;Matvey;Efimov;2;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+112294259;Natalya;Sukhorukova;1;Когалым;15.6.1983;Когалым;married;ТГУ;2005;N/A;N/A
+111546786;Natalya;Proskuryakova;1;Когалым;1.9.1905;N/A;N/A;N/A;N/A;N/A;N/A
+111210314;Katya;Grinevich;1;Когалым;15.10;N/A;N/A;N/A;N/A;N/A;N/A
+109131979;Irina;Lagutenko;1;Когалым;2.8;N/A;N/A;N/A;N/A;N/A;N/A
+109070126;Marina;Romanova;1;Когалым;6.6;N/A;N/A;N/A;N/A;N/A;N/A
+108887929;Marina;Yatsko;1;Когалым;19.10.1984;N/A;N/A;N/A;N/A;N/A;N/A
+150739929;Vlada;Antipina;1;Когалым;21.12;N/A;N/A;N/A;N/A;N/A;N/A
+103897062;Almira;Kashapova;1;Когалым;24.10.1984;N/A;N/A;N/A;N/A;N/A;N/A
+199888062;Alyona;Kalugina;1;Когалым;31.3.1985;Когалым;married;;0;Православие;N/A
+103482058;Dmitry;Nazarenko;2;Когалым;12.6.1993;С. Александрополье;married;;0;Православие;N/A
+101925704;Svetlana;Khmilevskaya;1;Когалым;24.6.1990;N/A;N/A;N/A;N/A;N/A;N/A
+99917145;Marina;Kudryashova-Chadlina;1;Когалым;28.2;N/A;N/A;N/A;N/A;N/A;N/A
+330844145;Nikolay;Likhachyov;2;Когалым;27.12.2000;N/A;N/A;N/A;N/A;N/A;N/A
+99803210;Pavel;Adamaki;2;Когалым;14.11;Когалым Молдова г.Кишинев SITI;married;МГУ;2016;Православие;['Русский', 'English']
+99668604;Danil;Lastochkin;2;Когалым;10.5.1982;N/A;N/A;N/A;N/A;N/A;N/A
+97238867;Rezida;Shagapova-Kamalieva;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+94550542;Olga;Perminova;1;Когалым;7.12;N/A;N/A;N/A;N/A;N/A;N/A
+92627648;Natalya;Makhalskaya;1;Когалым;N/A;;in love;;0;Православие;N/A
+91082696;Yura;Bortnikov;2;Когалым;10.11;N/A;N/A;N/A;N/A;N/A;N/A
+89309185;Alisa;Mukhamadieva;1;Когалым;24.6.1991;N/A;N/A;N/A;N/A;N/A;N/A
+87362090;Svetlana;Lapty;1;Когалым;2.3.1985;N/A;N/A;N/A;N/A;N/A;N/A
+86356520;Evgeny;Tokarev;2;Когалым;2.2;N/A;N/A;N/A;N/A;N/A;N/A
+86121888;Kristina;Genya;1;Когалым;N/A;Когалым;in love;;0;Православие;N/A
+84078787;Natalya;Sumtsova;1;Когалым;6.1;N/A;N/A;N/A;N/A;N/A;N/A
+83731724;Alexey;Fedorenko;2;Когалым;26.2;N/A;N/A;N/A;N/A;N/A;N/A
+83543099;Ruslan;Magamedov;2;Когалым;19.5;N/A;N/A;N/A;N/A;N/A;N/A
+82616578;Alexandra;Khristis;1;Когалым;8.11;КОГАЛЫМ;married;;0;N/A;N/A
+77410633;Natalya;Shirshova;1;Когалым;28.5.1991;N/A;N/A;N/A;N/A;N/A;N/A
+77253611;Tatyana;Barilova;1;Когалым;28.7;N/A;N/A;N/A;N/A;N/A;N/A
+182211611;Eduard;Korkeshko;2;Когалым;3.2.2002;Когалым;actively searching;;0;N/A;['Русский', 'English']
+76646717;Anastasia;Mukhametova;1;Когалым;2.12.1986;N/A;N/A;N/A;N/A;N/A;N/A
+73720404;Natalya;Kuznetsova;1;Когалым;4.11;N/A;N/A;N/A;N/A;N/A;N/A
+73504176;Kirill;Trondin;2;Когалым;30.8;N/A;N/A;N/A;N/A;N/A;N/A
+73494323;Maria;Markosyan;1;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+71568231;Pavel;Desyatov;2;Когалым;14.4.1990;N/A;N/A;N/A;N/A;N/A;N/A
+68582263;Evgenia;Dondukova;1;Когалым;17.11.1987;N/A;N/A;N/A;N/A;N/A;N/A
+68478377;Kristian;Eminesku;2;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+68018605;Vitalik;Cheban;2;Когалым;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+68017883;Ekaterina;Ivannikova;1;Когалым;22.8;N/A;N/A;N/A;N/A;N/A;N/A
+64220035;Margarita;Likhacheva;1;Когалым;1.6.1957;N/A;N/A;N/A;N/A;N/A;N/A
+63942032;Olya;Azimova;1;Когалым;21.1;N/A;N/A;N/A;N/A;N/A;N/A
+61216317;Anastasia;Rossolova;1;Когалым;3.9;N/A;N/A;N/A;N/A;N/A;N/A
+61178493;Elena;Soboleva;1;Когалым;2.3.1988;Украина г. Амвросиевка;married;;0;N/A;N/A
+105395444;Sasha;Kalita;1;Когалым;18.3.1998;Когалым Россия;single;;0;Православие;N/A
+59129012;Andrey;Medvedev;2;Когалым;6.12;N/A;N/A;N/A;N/A;N/A;N/A
+58779598;Olga;Osadchi;1;Когалым;1.1.1988;Когалым;married;ТюмГУ (КФ);2010;N/A;N/A
+191477598;Alyona;Taganskaya;1;Когалым;6.6;;in love;УНИК;0;N/A;N/A
+57170862;Natasha;Allenova;1;Когалым;1.4;N/A;N/A;N/A;N/A;N/A;N/A
+56735812;Vovan;Balakin;2;Когалым;14.11.1993;N/A;N/A;N/A;N/A;N/A;N/A
+56609196;Vladislav;Bondar;2;Когалым;10.8.1998;N/A;N/A;N/A;N/A;N/A;N/A
+56277111;Georgy;Neykulov;2;Когалым;1.3.1994;Когалым;single;;0;N/A;['Русский', 'English']
+52668866;Tolyan;Oshev;2;Когалым;28.4.1993;N/A;N/A;N/A;N/A;N/A;N/A
