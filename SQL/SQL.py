@@ -10,7 +10,7 @@ def imp_info():
     women = []
     new_row = []
     run1 = False
-    with open('vk.csv', 'r', encoding = 'utf-8') as csvfile:
+    with open('vk.csv', 'r') as csvfile:
         csvreader = csv.reader(csvfile, delimiter = ';', quotechar = '|')
         for row in csvreader:
             if run1 == True:
@@ -92,3 +92,4 @@ cursor.execute("DROP TABLE IF EXISTS KOGWOM")
 create(cursor)
 insert('KOGMEN', db, vk_info, cursor)
 insert('KOGWOM', db, vk_info, cursor)
+db.close()
