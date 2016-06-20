@@ -65,18 +65,14 @@ def insert(table, db, vk_info, cursor):
         sex = 1    
     for row in vk_info[sex]:
         args = (row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
-        break
         if sex == 0:
             comm = """INSERT INTO KOGMEN \
-                VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')"""
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
         else:
             comm = """INSERT INTO KOGWOM \
-                VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')"""
-        try:
-            cursor.execute(comm, args)
-            db.commit()
-        except:
-            db.rollback()
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
+        cursor.execute(comm, args)
+        db.commit()
 
          
 
