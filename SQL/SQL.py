@@ -65,20 +65,19 @@ def insert(table, db, vk_info, cursor):
         sex = 1
                 
     for row in vk_info[sex]:
+        args = (row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
         if sex == 0:
             comm = "INSERT INTO KOGMEN (Id, First_name, \
                 Last_name, City, Birthday, Home_town, \
                 Relation, University, Graduation, Religion, Languages) \
-                VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % \
-                (row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
+                VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')"
         else:
             comm = "INSERT INTO KOGWOM (Id, First_name, \
                 Last_name, City, Birthday, Home_town, \
                 Relation, University, Graduation, Religion, Languages) \
-                VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % \
-                (row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
+                VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')"
         try:
-            cursor.execute(comm)
+            cursor.execute(comm, args)
             db.commit()
         except:
             db.rollback()
@@ -86,7 +85,7 @@ def insert(table, db, vk_info, cursor):
          
 
 vk_info = imp_info()
-print vk_info[0][0]
+print vk_info[0]
 db = MySQLdb.connect('localhost', 'guest1', 'n76Je4=wx6H', 'guest1_lyell')
 cursor = db.cursor()
 cursor.execute("DROP TABLE IF EXISTS KOGMEN")
