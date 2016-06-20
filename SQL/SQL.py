@@ -18,8 +18,7 @@ def imp_info():
                 else:
                     men.append(row)
             except IndexError:
-                print row
-                break
+                pass
     return (men, women)
 
 
