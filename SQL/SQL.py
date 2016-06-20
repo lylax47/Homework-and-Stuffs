@@ -9,16 +9,20 @@ def imp_info():
     men = []
     women = []
     new_row = []
+    run1 = False
     with codecs.open('vk.csv', 'r') as csvfile:
         csvreader = csv.reader(csvfile, delimiter = ';', quotechar = '|')
         for row in csvreader:
-            try:
-                if row[3] == 1:
-                    women.append(row)
-                else:
-                    men.append(row)
-            except IndexError:
-                pass
+            if run1 == True:
+                try:
+                    if row[3] == '1':
+                        women.append(row)
+                    else:
+                        men.append(row)
+                except IndexError:
+                    pass
+            else:
+                run1 = True
     return (men, women)
 
 
