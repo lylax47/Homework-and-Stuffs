@@ -26,7 +26,7 @@ def imp_info():
 
 
 def create(cursor):
-    make_men = """CREATE TABLE KOGMEN (
+    make_men = """CREATE TABLE KOGMEN IF NOT EXISTS (
         Id INT,
         First_name  VARCHAR(50) NOT NULL,
         Last_name  VARCHAR(50),
@@ -39,7 +39,7 @@ def create(cursor):
         Religion  VARCHAR(50),
         Languages  VARCHAR(50))"""
 
-    make_wom = """CREATE TABLE KOGWOM (
+    make_wom = """CREATE TABLE KOGWOM IF NOT EXISTS (
         ID INT,
         First_name  VARCHAR(50) NOT NULL,
         Last_name  VARCHAR(50),
