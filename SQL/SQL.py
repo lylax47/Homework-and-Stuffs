@@ -67,14 +67,14 @@ def insert(table, db, vk_info, cursor):
             comm = "INSERT INTO KOGMEN (ID, FIRST_NAME, \
                 LAST_NAME, CITY, BIRTHDAY, HOME_TOWN, \
                 RELATION, UNIVRSITY, GRADUATION, RELIGION, LANGUAGES) \
-                VALUES ('%d', %s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % \
+                VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % \
                 (row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
         else:
             comm = "INSERT INTO KOGWOM (ID, FIRST_NAME, \
                 LAST_NAME, CITY, BIRTHDAY, HOME_TOWN, \
                 RELATION, UNIVRSITY, GRADUATION, RELIGION, LANGUAGES) \
-                VALUES ('%d', %s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % \
-                (table, row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
+                VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % \
+                (row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
         try:
             cursor.execute(comm)
             db.commit()
@@ -84,6 +84,7 @@ def insert(table, db, vk_info, cursor):
          
 
 vk_info = imp_info()
+print vk_info[0][0]
 db = MySQLdb.connect('localhost', 'guest1', 'n76Je4=wx6H', 'guest1_lyell')
 cursor = db.cursor()
 cursor.execute("DROP TABLE IF EXISTS KOGMEN")
