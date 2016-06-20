@@ -12,13 +12,11 @@ def imp_info():
     with codecs.open('vk.csv', 'r') as csvfile:
         csvreader = csv.reader(csvfile, delimiter = ';', quotechar = '|')
         for row in csvreader:
-            for x in row:
-                new_row.append(x.decode('utf-8'))
             try:
                 if row[3] == 1:
-                    women.append(new_row)
+                    women.append(row)
                 else:
-                    men.append(new_row)
+                    men.append(row)
             except IndexError:
                 pass
     return (men, women)
@@ -40,7 +38,7 @@ def create(cursor):
         Languages  VARCHAR(50))"""
 
     make_wom = """CREATE TABLE KOGWOM(
-        ID INT,
+        Id INT,
         First_name  VARCHAR(50) NOT NULL,
         Last_name  VARCHAR(50),
         City  VARCHAR(50),  
@@ -64,15 +62,15 @@ def insert(table, db, vk_info, cursor):
                 
     for row in vk_info[sex]:
         if sex == 0:
-            comm = "INSERT INTO KOGMEN (ID, FIRST_NAME, \
-                LAST_NAME, CITY, BIRTHDAY, HOME_TOWN, \
-                RELATION, UNIVRSITY, GRADUATION, RELIGION, LANGUAGES) \
+            comm = "INSERT INTO KOGMEN (Id, First_name, \
+                Last_name, City, Birthday, Home_town, \
+                Relation, University, Graduation, Religion, Languages) \
                 VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % \
                 (row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
         else:
-            comm = "INSERT INTO KOGWOM (ID, FIRST_NAME, \
-                LAST_NAME, CITY, BIRTHDAY, HOME_TOWN, \
-                RELATION, UNIVRSITY, GRADUATION, RELIGION, LANGUAGES) \
+            comm = "INSERT INTO KOGWOM (Id, First_name, \
+                Last_name, City, Birthday, Home_town, \
+                Relation, University, Graduation, Religion, Languages) \
                 VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % \
                 (row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
         try:
