@@ -27,30 +27,30 @@ def imp_info():
 
 def create(cursor):
     make_men = """CREATE TABLE KOGMEN (
-        ID INT
-        FIRST_NAME  VARCHAR(50) NOT NULL,
-        LAST_NAME  VARCHAR(50),
-        CITY  VARCHAR(50),  
-        BIRTHDAY  VARCHAR(50),
-        HOME_TOWN  VARCHAR(50),
-        RELATION  VARCHAR(50),
-        UNIVERSITY  VARCHAR(50),
-        GRADUATION  VARCHAR(50),
-        RELIGION  VARCHAR(50),
-        LANGUAGES  VARCHAR(50))"""
+        Id INT,
+        First_name  VARCHAR(50) NOT NULL,
+        Last_name  VARCHAR(50),
+        City  VARCHAR(50),  
+        Birthday  VARCHAR(50),
+        Home_town  VARCHAR(50),
+        Relation  VARCHAR(50),
+        University  VARCHAR(50),
+        Graduation  VARCHAR(50),
+        Religion  VARCHAR(50),
+        Languages  VARCHAR(50))"""
 
     make_wom = """CREATE TABLE KOGWOM (
-        ID INT
-        FIRST_NAME  VARCHAR(50) NOT NULL,
-        LAST_NAME  VARCHAR(50),
-        CITY VARCHAR(50),  
-        BIRTHDAY VARCHAR(10),
-        HOME_TOWN VARCHAR(50),
-        RELATION VARCHAR(50),
-        UNIVERSITY VARCHAR(50),
-        GRADUATION VARCHAR(50),
-        RELIGION VARCHAR(50),
-        LANGUAGES VARCHAR(50))"""
+        ID INT,
+        First_name  VARCHAR(50) NOT NULL,
+        Last_name  VARCHAR(50),
+        City  VARCHAR(50),  
+        Birthday  VARCHAR(10),
+        Home_town  VARCHAR(50),
+        Relation VARCHAR(50),
+        University  VARCHAR(50),
+        Graduation  VARCHAR(50),
+        Religion  VARCHAR(50),
+        Languages  VARCHAR(50))"""
     cursor.execute(make_men)
     cursor.execute(make_wom)   
 
