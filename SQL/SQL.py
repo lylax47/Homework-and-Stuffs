@@ -26,7 +26,7 @@ def imp_info():
 
 
 def create(cursor):
-    make_men = """CREATE TABLE KOGMEN IF NOT EXISTS (
+    make_men = """CREATE TABLE KOGMEN(
         Id INT,
         First_name  VARCHAR(50) NOT NULL,
         Last_name  VARCHAR(50),
@@ -39,7 +39,7 @@ def create(cursor):
         Religion  VARCHAR(50),
         Languages  VARCHAR(50))"""
 
-    make_wom = """CREATE TABLE KOGWOM IF NOT EXISTS (
+    make_wom = """CREATE TABLE KOGWOM(
         ID INT,
         First_name  VARCHAR(50) NOT NULL,
         Last_name  VARCHAR(50),
@@ -83,6 +83,8 @@ def insert(table, db, vk_info, cursor):
 vk_info = imp_info()
 db = MySQLdb.connect('localhost', 'guest1', 'n76Je4=wx6H', 'guest1_lyell')
 cursor = db.cursor()
+cursor.execute("DROP TABLE IF EXISTS KOGMEN")
+cursor.execute("DROP TABLE IF EXISTS KOGWOM")
 create(cursor)
 insert('KOGMEN', db, vk_info, cursor)
 insert('KOGWOM', db, vk_info, cursor)
