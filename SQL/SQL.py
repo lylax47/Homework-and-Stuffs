@@ -68,11 +68,15 @@ def insert(table, db, vk_info, cursor):
         args = (row[0], row[1], row[2], row[4].decode('utf8'), row[5].decode('utf8'), row[6].decode('utf8'), \
             row[7].decode('utf8'), row[8].decode('utf8'), row[9].decode('utf8'), row[10].decode('utf8'))
         if sex == 0:
-            comm = """INSERT INTO KOGMEN \
-                VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')"""
+            comm = "INSERT INTO KOGMEN (Id, First_name, \
+                Last_name, City, Birthday, Home_town, \
+                Relation, University, Graduation, Religion, Languages) \
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
         else:
-            comm = """INSERT INTO KOGWOM \
-                VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')"""
+            comm = "INSERT INTO KOGMEN (Id, First_name, \
+                Last_name, City, Birthday, Home_town, \
+                Relation, University, Graduation, Religion, Languages) \
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
         cursor.execute(comm, args)
         db.commit()
 
@@ -91,4 +95,4 @@ db.close()
             # comm = "INSERT INTO KOGMEN (Id, First_name, \
             #     Last_name, City, Birthday, Home_town, \
             #     Relation, University, Graduation, Religion, Languages) \
-            #     VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')"
+            #     VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
