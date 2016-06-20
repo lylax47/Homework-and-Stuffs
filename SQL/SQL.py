@@ -10,7 +10,7 @@ def imp_info():
     women = []
     new_row = []
     run1 = False
-    with codecs.open('vk.csv', 'r') as csvfile:
+    with open('vk.csv', 'r', encoding = 'utf-8') as csvfile:
         csvreader = csv.reader(csvfile, delimiter = ';', quotechar = '|')
         for row in csvreader:
             if run1 == True:
@@ -62,10 +62,10 @@ def insert(table, db, vk_info, cursor):
     if table == 'KOGMEN':
         sex = 0
     else:
-        sex = 1
-                
+        sex = 1    
     for row in vk_info[sex]:
         args = (row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
+        break
         if sex == 0:
             comm = "INSERT INTO KOGMEN (Id, First_name, \
                 Last_name, City, Birthday, Home_town, \
@@ -85,8 +85,7 @@ def insert(table, db, vk_info, cursor):
          
 
 vk_info = imp_info()
-print vk_info[0]
-db = MySQLdb.connect('localhost', 'guest1', 'n76Je4=wx6H', 'guest1_lyell')
+db = MySQLdb.connect('localhost', 'guest1', 'n76Je4=wx6H', 'guest1_lyell', charset='utf-8')
 cursor = db.cursor()
 cursor.execute("DROP TABLE IF EXISTS KOGMEN")
 cursor.execute("DROP TABLE IF EXISTS KOGWOM")
