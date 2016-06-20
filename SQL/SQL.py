@@ -67,15 +67,11 @@ def insert(table, db, vk_info, cursor):
         args = (row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
         break
         if sex == 0:
-            comm = "INSERT INTO KOGMEN (Id, First_name, \
-                Last_name, City, Birthday, Home_town, \
-                Relation, University, Graduation, Religion, Languages) \
-                VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')"
+            comm = """INSERT INTO KOGMEN \
+                VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')"""
         else:
-            comm = "INSERT INTO KOGWOM (Id, First_name, \
-                Last_name, City, Birthday, Home_town, \
-                Relation, University, Graduation, Religion, Languages) \
-                VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')"
+            comm = """INSERT INTO KOGWOM \
+                VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')"""
         try:
             cursor.execute(comm, args)
             db.commit()
@@ -85,7 +81,7 @@ def insert(table, db, vk_info, cursor):
          
 
 vk_info = imp_info()
-db = MySQLdb.connect('localhost', 'guest1', 'n76Je4=wx6H', 'guest1_lyell', charset='utf-8')
+db = MySQLdb.connect('localhost', 'guest1', 'n76Je4=wx6H', 'guest1_lyell', charset='utf8')
 cursor = db.cursor()
 cursor.execute("DROP TABLE IF EXISTS KOGMEN")
 cursor.execute("DROP TABLE IF EXISTS KOGWOM")
@@ -93,3 +89,8 @@ create(cursor)
 insert('KOGMEN', db, vk_info, cursor)
 insert('KOGWOM', db, vk_info, cursor)
 db.close()
+
+            # comm = "INSERT INTO KOGMEN (Id, First_name, \
+            #     Last_name, City, Birthday, Home_town, \
+            #     Relation, University, Graduation, Religion, Languages) \
+            #     VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')"
