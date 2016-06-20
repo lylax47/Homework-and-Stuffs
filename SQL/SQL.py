@@ -59,21 +59,24 @@ def create(cursor):
 def insert(table, db, vk_info, cursor):
     if table == 'KOGMEN':
         sex = 0
-        comm = "INSERT INTO KOGMEN (ID, FIRST_NAME, \
+    else:
+        sex = 1
+                
+    for row in vk_info[sex]:
+        if sex == 0:
+            comm = "INSERT INTO KOGMEN (ID, FIRST_NAME, \
                 LAST_NAME, CITY, BIRTHDAY, HOME_TOWN, \
                 RELATION, UNIVRSITY, GRADUATION, RELIGION, LANGUAGES) \
                 VALUES ('%d', %s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % \
                 (row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
-    else:
-        sex = 1
-        comm = "INSERT INTO KOGWOM (ID, FIRST_NAME, \
+        else:
+            comm = "INSERT INTO KOGWOM (ID, FIRST_NAME, \
                 LAST_NAME, CITY, BIRTHDAY, HOME_TOWN, \
                 RELATION, UNIVRSITY, GRADUATION, RELIGION, LANGUAGES) \
                 VALUES ('%d', %s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % \
-                (table, row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])        
-    for row in vk_info[sex]:
+                (table, row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
         try:
-            cursor.execute(sql)
+            cursor.execute(comm)
             db.commit()
         except:
             db.rollback()
