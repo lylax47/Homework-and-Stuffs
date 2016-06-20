@@ -8,15 +8,17 @@ import csv
 def imp_info():
     men = []
     women = []
-    with codecs.open('vk.csv', 'r', encoding = 'utf-8') as csvfile:
-        csvreader = csv.reader(csvfile, delimiter = ';', quotechar = '|')
+    new_row = []
+    with codecs.open('vk.csv', 'r') as csvfile:
+        csvreader = csv.reader(csvfile, delimiter = ';', quoteVARchar = '|')
         for row in csvreader:
-            print row
+            for x in row:
+                new_row.append(x.decode('utf-8'))
             try:
                 if row[3] == 1:
-                    women.append(row)
+                    women.append(new_row)
                 else:
-                    men.append(row)
+                    men.append(new_row)
             except IndexError:
                 pass
     return (men, women)
@@ -26,29 +28,29 @@ def imp_info():
 def create(cursor):
     make_men = """CREATE TABLE KOGMEN (
         ID INT
-        FIRST_NAME  CHAR(50) NOT NULL,
-        LAST_NAME  CHAR(50),
-        CITY CHAR(50),  
-        BIRTHDAY CHAR(10),
-        HOME_TOWN CHAR(50)
-        RELATION CHAR(50)
-        UNIVERSITY CHAR(50)
-        GRADUATION CHAR(50)
-        RELIGION CHAR(50)
-        LANGUAGES CHAR(50))"""
+        FIRST_NAME  VARCHAR(50) NOT NULL,
+        LAST_NAME  VARCHAR(50),
+        CITY  VARCHAR(50),  
+        BIRTHDAY  VARCHAR(50),
+        HOME_TOWN  VARCHAR(50),
+        RELATION  VARCHAR(50),
+        UNIVERSITY  VARCHAR(50),
+        GRADUATION  VARCHAR(50),
+        RELIGION  VARCHAR(50),
+        LANGUAGES  VARCHAR(50))"""
 
     make_wom = """CREATE TABLE KOGWOM (
         ID INT
-        FIRST_NAME  CHAR(50) NOT NULL,
-        LAST_NAME  CHAR(50),
-        CITY CHAR(50),  
-        BIRTHDAY CHAR(10),
-        HOME_TOWN CHAR(50)
-        RELATION CHAR(50)
-        UNIVERSITY CHAR(50)
-        GRADUATION CHAR(50)
-        RELIGION CHAR(50)
-        LANGUAGES CHAR(50))"""
+        FIRST_NAME  VARCHAR(50) NOT NULL,
+        LAST_NAME  VARCHAR(50),
+        CITY VARCHAR(50),  
+        BIRTHDAY VARCHAR(10),
+        HOME_TOWN VARCHAR(50),
+        RELATION VARCHAR(50),
+        UNIVERSITY VARCHAR(50),
+        GRADUATION VARCHAR(50),
+        RELIGION VARCHAR(50),
+        LANGUAGES VARCHAR(50))"""
     cursor.execute(make_men)
     cursor.execute(make_wom)   
 
