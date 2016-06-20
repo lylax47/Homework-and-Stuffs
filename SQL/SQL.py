@@ -10,7 +10,7 @@ def imp_info():
     women = []
     new_row = []
     with codecs.open('vk.csv', 'r') as csvfile:
-        csvreader = csv.reader(csvfile, delimiter = ';', quoteVARchar = '|')
+        csvreader = csv.reader(csvfile, delimiter = ';', quotechar = '|')
         for row in csvreader:
             for x in row:
                 new_row.append(x.decode('utf-8'))
@@ -59,14 +59,19 @@ def create(cursor):
 def insert(table, db, vk_info, cursor):
     if table == 'KOGMEN':
         sex = 0
+        comm = "INSERT INTO KOGMEN (ID, FIRST_NAME, \
+                LAST_NAME, CITY, BIRTHDAY, HOME_TOWN, \
+                RELATION, UNIVRSITY, GRADUATION, RELIGION, LANGUAGES) \
+                VALUES ('%d', %s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % \
+                (row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
     else:
         sex = 1
+        comm = "INSERT INTO KOGWOM (ID, FIRST_NAME, \
+                LAST_NAME, CITY, BIRTHDAY, HOME_TOWN, \
+                RELATION, UNIVRSITY, GRADUATION, RELIGION, LANGUAGES) \
+                VALUES ('%d', %s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % \
+                (table, row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])        
     for row in vk_info[sex]:
-        comm = "INSERT INTO '%s' (ID, FIRST_NAME, \
-               LAST_NAME, CITY, BIRTHDAY, HOME_TOWN, \
-               RELATION, UNIVRSITY, GRADUATION, RELIGION, LANGUAGES) \
-               VALUES ('%d', %s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % \
-               (table, row[0], row[1], row[2], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
         try:
             cursor.execute(sql)
             db.commit()
