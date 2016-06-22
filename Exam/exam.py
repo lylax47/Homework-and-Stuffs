@@ -4,6 +4,14 @@ import re
 
 
 def break_text(data):
+	'''
+	Breaks up large texts into smaller chunks based on their sizes.
+
+	input - data: Imported excel info.
+
+	output - new_rows: List of excel table rows with additional rows for broken-up texts.
+	'''
+
 	new_rows = []
 	run1 = False
 	for row in data:
@@ -33,6 +41,14 @@ def break_text(data):
 
 
 def cats(new_rows):
+	'''
+	Rewrites simplified genre values into sphere column to better organize texts.
+
+	input - new_rows: List of rows exported from break_text function.
+
+	output - cat_row: List of rows with altered sphere column values.
+	'''
+
 	cat_rows = []
 	for row in new_rows:
 		if re.match('художественная(.*)', row[6]):
@@ -57,6 +73,14 @@ def cats(new_rows):
 
 
 def years(cat_rows):
+	'''
+	Places rows into dictionary based upon their year of creation. (Uses first date value given in the case time given is a span)
+
+	input - cat_rows: List of rows exported from cats function.
+
+	output - year_rows:  Dictionary of excel spreadsheet rows organized by date of creation.
+	'''
+
 	year_rows = {1950:[], 1961:[], 1971:[], 1981:[], 1991:[], 2001:[], 2011:[]}
 	for row in cat_rows:
 		num = str(row[5])
@@ -77,17 +101,43 @@ def years(cat_rows):
 	return year_rows
 
 def equal (year_rows):
+	'''
+	Equalize amount of text from given genres and dates by appending to last_list
+	a text with a combination of the lowest date and genre word count values.
+
+	input - year_rows: Dictionary exported from years function.
+
+	output - last_list: list with finalized rows, ready for printig to csv.
+	'''
+
 	total_wc = 100000000
 	cat_d = {'xud_wc':0, 'off_wc':0, 'pro_wc':0, 'rek_wc':0, 'pub_wc':0, 'uch_wc':0, 'bit_wc':0, 'serk_wc':0}
 	year_d = {'1950_wc':0, '1961_wc':0, '1971_wc':0, '1981_wc':0 , '1991_wc':0, '2001_wc':0, '2011_wc':0}
+	while total_wc > 0:
+		for row in cat_rows:
+			y = 0
+			c = 0
+			cat_l = [year_d['xud_wc'], year_d['off_wc'], year_d['pro_wc'], year_d['rek_wc'], \
+			year_d['pub_wc'], year_d['uch_wc'], year_d['bit_wc'], year_d['serk_wc']] 
+			year_l = [year_d['1950_wc'], year_d['1961_wc'], year_d['1971_wc'], year_d['1981_wc'], \
+			year_d['1991_wc'], year_d['2001_wc'], year_d['2011_wc']]
+			c_sort = cat_l.sort()
+			y_sort = year_l.sort()
+			c_val = c_sort[0]
+			y_val = y_sort[0]
 
-	for row in cat_rows:
-		cat_l = [year_d['xud_wc'], year_d['off_wc'], year_d['pro_wc'], year_d['rek_wc'], \
-		year_d['pub_wc'], year_d['uch_wc'], year_d['bit_wc'], year_d['serk_wc']] 
-		year_l = [year_d['1950_wc'], year_d['1961_wc'], year_d['1971_wc'], year_d['1981_wc'], \
-		year_d['1991_wc'], year_d['2001_wc'], year_d['2011_wc']]
-		min_c = min(cat_l)
-		min_y = min(year_l)
+### Unfortunately I do not currently have time to finish becasue of other finals.
+### I should also note that this was not completed during the exam period, so grade as you wish.
+### The problem was that I had never worked with excel files before and was previously unfamiliar 
+### with how to open and work with them.
+### Everything should function up until the function equal.
+### Further I would have written a function for writting the organized data to csv.
+
+				
+
+
+
+
 
 
 wb = xlrd.open_workbook('source_post1950_wordcount.xls')
