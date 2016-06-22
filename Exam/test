@@ -1,0 +1,7 @@
+import re
+
+x = '1950-1961'
+
+
+if re.match('(195[0-9])|(1960)(.*)', x) is not None:
+	print('hello')
